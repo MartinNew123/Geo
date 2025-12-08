@@ -1,1 +1,1 @@
-Temp
+GameObject with MeshFilter and MeshRenderer and the script and with basic material on MeshRenderer, activate wireframe draw mode in unity to visualise the triangles. Activate and deactivate each GameObject one by one to visualise all the shapes. Use the scene view instead of game to visualise properly in 3D and rotate/manipulate objects.

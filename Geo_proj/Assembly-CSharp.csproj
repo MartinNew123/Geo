@@ -47,7 +47,18 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.62f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/TriangleScript.cs" />
+    <Compile Include="Assets/Scripts/ConeScript.cs" />
+    <Compile Include="Assets/Scripts/SphereScript.cs" />
+    <Compile Include="Assets/Scripts/StructureMaillage.cs" />
+    <Compile Include="Assets/Scripts/CylinderScript.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/Maillages/Off_Meshes/plan.off.txt" />
+    <None Include="Assets/Maillages/Off_Meshes/bunny.off.txt" />
+    <None Include="Assets/Maillages/Off_Meshes/buddha.off.txt" />
+    <None Include="Assets/Maillages/Off_Meshes/cube.off.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
