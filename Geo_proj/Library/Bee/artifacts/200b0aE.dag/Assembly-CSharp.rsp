@@ -424,9 +424,12 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.62f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.62f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Scripts/ConeScript.cs"
+"Assets/Scripts/CubeScript.cs"
 "Assets/Scripts/CylinderScript.cs"
+"Assets/Scripts/EnumSpa.cs"
 "Assets/Scripts/SphereScript.cs"
 "Assets/Scripts/StructureMaillage.cs"
+"Assets/Scripts/ToolScript.cs"
 "Assets/Scripts/TriangleScript.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
